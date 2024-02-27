@@ -6,7 +6,7 @@ public class Git_Class {
 		
 		System.out.println("Testing Git");
 		
-		System.out.println("Testing Git");
+		
 	}
     
 	
